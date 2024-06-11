@@ -1,4 +1,7 @@
 # MEFT
+## Note
+
+Currently, the code released here is for the purpose of reproducing the performance of MEFT on datasets such as NQ and SQuAD. The current repo runs on GPUs, simulating sparsification on CPUs and applying MoE's Parallel Adapter through the use of masks. The complete code will be released later.
 
 ## Environment Setup
 
